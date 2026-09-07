@@ -1,4 +1,4 @@
-# Deep Learning Image Classification
+# Deep Learning Egg Classification
 
 A binary image classification project implemented with TensorFlow/Keras.
 
